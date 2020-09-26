@@ -1,6 +1,4 @@
 spring:
-  application:
-    name: microservice-config-server
   cloud:
     inetutils:
       preferred-networks: 127.0.0

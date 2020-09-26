@@ -124,7 +124,6 @@
     </dependencies>
 
     <modules>
-        <module></module>
         <module>ssky-small-micro-config-server</module>
     </modules>
 </project>
